@@ -1,0 +1,22 @@
+{
+    "menu": [
+        {
+            "name": "App 1",
+            "component": "RegistrationFormV1"
+        },
+        {
+            "name": "App 2",
+            "component": "RegistrationFormV2"
+        }
+    ],
+    "components": {
+        "RegistrationFormV1": {
+            "version": "1.0",
+            "description": "First version of the registration form."
+        },
+        "RegistrationFormV2": {
+            "version": "2.0",
+            "description": "Second version of the registration form."
+        }
+    }
+}
